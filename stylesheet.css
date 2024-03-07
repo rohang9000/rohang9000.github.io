@@ -1,0 +1,46 @@
+/* Apply style to an HTML tag */
+h1 {
+    color: blue;
+}
+
+/* Create and style a class */
+.my-class {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Apply class to elements */
+.my-class {
+    color: red;
+}
+
+/* Create and style an id */
+#my-id {
+    background-color: yellow;
+}
+
+/* Apply id to an element */
+#my-id {
+    padding: 10px;
+}
+
+/* Change color of <a> on hover */
+a:hover {
+    color: green;
+}
+
+/* Change box model properties */
+.my-class {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+/* Include an image */
+img {
+    max-width: 100%;
+}
+
+/* Meta description tag */
+meta[name="description"] {
+    content: "This is my personal website showcasing my hobbies and professional experience.";
+}
